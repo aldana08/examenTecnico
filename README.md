@@ -1,6 +1,6 @@
 # examenTecnico
-# vite
-## How to use
+
+## steps to run the application locally
 
 `npm install` or `pnpm install` or `yarn`
 
